@@ -58,6 +58,16 @@ Privacy policy: <https://sites.google.com/view/chemlasso-privacy>
 - Open an [issue](../../issues) in this repository.
 - Email: chemlasso.ocsr.official@gmail.com
 
+### Source code
+
+ChemLasso is currently closed source. This repository contains documentation and serves as a channel for feedback; the source code is not published here. We may open-source the code or offer licensing in the future. Until then, all rights are reserved. For licensing enquiries, contact chemlasso.ocsr.official@gmail.com.
+
+### Developers
+
+- [@7k-P](https://github.com/7k-P)
+- [@zzzzzhxy](https://github.com/zzzzzhxy)
+- [@wenboyeah](https://github.com/wenboyeah)
+
 ---
 
 ## 中文
@@ -102,3 +112,13 @@ ChemLasso 是一款离线的化学结构识别工具，带有 2D/3D 工作室、
 
 - 在本仓库提交 [issue](../../issues)。
 - 邮箱：chemlasso.ocsr.official@gmail.com
+
+### 源代码
+
+ChemLasso 目前暂未开源。本仓库仅提供说明文档和反馈渠道，不包含源代码。我们未来可能公开源代码或提供授权使用；在此之前保留所有权利。如有授权合作意向，请联系 chemlasso.ocsr.official@gmail.com。
+
+### 开发者
+
+- [@7k-P](https://github.com/7k-P)
+- [@zzzzzhxy](https://github.com/zzzzzhxy)
+- [@wenboyeah](https://github.com/wenboyeah)
